@@ -6,8 +6,13 @@ This is a basic chat room built with Node.js and WebSockets. It was my first Nod
 Running the App
 ---------------
 Assuming you already have [node](http://nodejs.org/) and [npm](https://npmjs.org/) installed...
-Install the dependencies
+
+Install the dependencies:
+
     npm install
-Start the server
+
+Start the server:
+
     node chat-server.js
+
 Visit chatroom.html from two different pages, and start talking to yourself.
